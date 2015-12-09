@@ -1,0 +1,29 @@
+{
+  "name": "raspberry-omxplayer-fireplace",
+  "version": "1.0.0",
+  "description": "Fireplace displaying fireplace on screen for Raspberry (Raspbian)",
+  "main": "index.js",
+  "dependencies": {
+    "omx-manager": "0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steph0/raspberry-omxplayer-fireplace.git"
+  },
+  "keywords": [
+    "raspberry",
+    "raspbian",
+    "omxplayer",
+    "fireplace"
+  ],
+  "author": "Steph0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steph0/raspberry-omxplayer-fireplace/issues"
+  },
+  "homepage": "https://github.com/Steph0/raspberry-omxplayer-fireplace#readme"
+}
